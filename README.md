@@ -1,0 +1,2 @@
+# Random gif generator
+ 
